@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cours-react1/static/css/main.ccbed337.css",
+    "main.js": "/cours-react1/static/js/main.3754ef5f.js",
+    "static/media/main.jpg": "/cours-react1/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/cours-react1/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/cours-react1/index.html",
+    "main.ccbed337.css.map": "/cours-react1/static/css/main.ccbed337.css.map",
+    "main.3754ef5f.js.map": "/cours-react1/static/js/main.3754ef5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccbed337.css",
+    "static/js/main.3754ef5f.js"
+  ]
+}
